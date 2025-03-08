@@ -1,6 +1,9 @@
 # SH-CHAT-GPT
 
+
 INSTALL
+
+````bash
 
 pkg update && upgrade -y
 
@@ -18,7 +21,9 @@ pip install openai
 
 python shgpt.py
 
-How to use 
+````
+
+How to use
 
 Run:
 
