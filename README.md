@@ -27,4 +27,8 @@ How to use
 
 Run:
 
+````bash
+
 shgpt
+
+````
